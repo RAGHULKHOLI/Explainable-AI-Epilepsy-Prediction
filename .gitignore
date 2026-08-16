@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+*.zip
+*.dcm
+*.nii
+*.nii.gz
+*.jpg
+*.jpeg
+*.png
+
+MRI_DATASET_EXTRACTED/
+checkpoints/
